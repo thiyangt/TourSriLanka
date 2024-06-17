@@ -1,2 +1,16 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
+^cran-comments\.md$
+^\.travis\.yml$
+^revdep$
+^README\.Rmd$
+^README-.*\.png$
+^hexsticker$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^LICENSE\.md$
+^doc$
+^Meta$
+^.*\.log$

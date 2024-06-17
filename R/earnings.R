@@ -1,18 +1,11 @@
-# Hello, world!
-#
-# This is an example function named 'hello' 
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   https://r-pkgs.org
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
-
-hello <- function() {
-  print("Hello, world!")
-}
+#' Monthly Earnings from Tourism
+#'
+#' @description Monthly earnings (US Dollar Mn)
+#' @format A data frame with 180 rows and 3variables
+#' \describe{
+#' \item{Month}{Month}
+#' \item{Year}{Year}
+#' \item{Earnings}{Earnings in USD Mn}
+#' }
+#' @source Central Bank of Sri Lanka (https://www.cbsl.gov.lk/en/statistics/statistical-tables/external-sector)
+NULL
