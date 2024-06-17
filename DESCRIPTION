@@ -1,0 +1,10 @@
+Package: TourSriLanka
+Type: Package
+Title: Data Related to Sri lanka Tourism Industry
+Version: 0.1.0
+Author: Thiyanga S. Talagala
+Maintainer: Thiyanga S. Talagala <ttalagala@sjp.ac.lk>
+Description: Obtain data related to Sri Lanka tourism industry
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
